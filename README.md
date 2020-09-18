@@ -1,1 +1,1 @@
-# MySports-iOS
+# MySports
